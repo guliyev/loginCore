@@ -1,0 +1,58 @@
+body{
+    background-color: #2f353a;
+}
+
+.login{
+    background-color: #3a4149;
+
+    margin-top: 200px;
+
+}
+.singUp{
+    background-color: #20a8d8;
+    
+
+
+    margin-top: 200px;
+}
+.row h1{
+  padding-top: 50px;
+  padding-left: 100px;
+  color: white;
+}
+.singUp h1{
+    padding-left: 200px;
+}
+
+.text{
+    width: 100%;
+    padding-top: 15px;
+    padding: 0px 80px;
+    font-size: 17px;
+    text-align: center;
+}
+.login p{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+
+
+.panel-heading {
+    padding: 5px 15px;
+}
+
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
